@@ -1,0 +1,43 @@
+.about{
+    width: 100%;
+    padding: 100px 0px;
+    background-color: #f7f5e7;
+}
+
+.about img{
+    height: auto;
+    width: 430px;
+}
+
+.mi-text{
+    width: 550px;
+}
+
+.mi{
+   width: 1130px;
+   max-width: 95%;
+   margin: 0 auto; 
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+
+.mi-text h2{
+    font-size: 65px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+
+.mi-text h5{
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+
+.mi-text p{
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 16px;
+    margin-bottom: 45px;
+}
